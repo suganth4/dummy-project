@@ -36,7 +36,7 @@ export const fetchReply = (data) => {
         }));
 
         const configuration = new Configuration({
-            apiKey: "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",
+            apiKey: "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",
         });
 
         const openai = new OpenAIApi(configuration);
